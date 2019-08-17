@@ -1,8 +1,10 @@
-# ece-department-project-digital-systems
+# Building controllers and drivers for Xilinx Spartan 3 and Spartan 3E FPGAs using Verilog
  
 ## Repository Overview 
  
  This repository consists of four projects or "labs" which were developed for the needs of the course "Digital Systems Lab". This course is part of the undergraduate studies of University of Thessally - ECE Department, which is located in Volos, Greece.
+
+Link to the Department's official site: https://www.e-ce.uth.gr/?lang=en
 
 ## Author
 
@@ -12,7 +14,7 @@ My name is Panagiotis Anastasiadis and these projects were assigned to me during
 
  If there are any sights of bad practices or ambiguities regarding the file structure, code quality, the general development of the projects or the entire repo management, please mind that this work attempt to strictly focus on the course nature and fit the requirements for the assignments set by it. Also, consider the lack of expertise or experience that comes along during the time of undergraduate studies. 
 
-**In any case, these projects do not represent professional work, rather a first indulgment in Digital Systems, FPGAs and Verilog language.** 
+**In any case, these projects do not represent professional work, rather an advocation with Digital Systems, FPGAs and Verilog language.** 
 
 ## Projects Overview
 * These projects aimed to give a good understanding for both the digital systems fundamentals and the FPGA programming concept. 
